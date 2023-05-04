@@ -1,1 +1,8 @@
-# Machine-Learning
+## ABSTRACT
+
+### ~ AGRIBOT :
+
+### ~ FACE RECOGNITION TECNIQUES :
+
+### ~ RESTOCK INVENTORY : 
+
